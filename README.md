@@ -46,6 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing SCX10  Trail Honcho](https://www.youtube.com/watch?v=ZsQAtXLO9dQ)
+- [First ride](https://www.youtube.com/watch?v=luNKfD4AihA)
+- [Final Pressure Washing](https://www.youtube.com/watch?v=EYUg3SpsDdM)
+- [Chevy3100 - Pressure Washing &lpar;Part 3&rpar;](https://www.youtube.com/watch?v=kK7pdIAd46g)
+- [Nashville Cars n&#39; Coffee](https://www.youtube.com/watch?v=4f4PyHcBkO4)
 <!-- YOUTUBE:END -->
 
 ---
