@@ -43,7 +43,7 @@
 <br />
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos (Not related to coding)
 
 <!-- YOUTUBE:START -->
 - [Unboxing SCX10  Trail Honcho](https://www.youtube.com/watch?v=ZsQAtXLO9dQ)
