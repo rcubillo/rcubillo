@@ -5,7 +5,8 @@
 
 ## I'm a Husband, Father and QA Engineer!!
 
-- 🌱 I’m currently implementing some automated end to end tests on a powerful application (Testim)
+- 🌱 I’m currently implementing some automated end to end tests on a powerful application (Testim) to test the UI
+- Using Jest to create tests to cover API 
 - 🥅 2022 Goals: Contribute more to Open Source projects, learn some other coding languages
 - ⚡ Fun fact: I love to run, bike, RC's, and travel around the world
 
