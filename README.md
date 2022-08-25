@@ -3,12 +3,12 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Husband, Father and QA Engineer!!
+## I'm a Husband, Father, used to be a QA Engineer but I'm currently a developer. 
 
-- 🌱 I’m currently implementing some automated end to end tests on a powerful application (Testim) to test the UI
-- Using Jest to create tests to cover API 
-- 🥅 2022 Goals: Contribute more to Open Source projects, learn some other coding languages
-- ⚡ Fun fact: I love to run, bike, RC's, and travel around the world
+- 🌱 I’m currently adding some junit test to have more test coverage in our project. 
+- I'm cleaning up the project to remove some code we dont need anymore. 
+- 🥅 2022 - 2023  Goals: Learn more about javascript, react, and some other libraries or coding languages if possible. 
+- ⚡ Fun fact: I love to run, bike, RC's, and travel around the world.
 
 ### Connect with me:
 
