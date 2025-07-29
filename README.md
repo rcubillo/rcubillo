@@ -3,12 +3,11 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Husband, Father, used to be a QA Engineer, but now I'm a developer. 
+## I'm a Husband, Father and senior QA Engineer
 
-- 🌱 I’m currently adding some junit test to have more test coverage in our project. 
-- I'm cleaning up the project to remove some code we dont need anymore. 
-- 🥅 2022 - 2023  Goals: Learn more about javascript, react, and some other libraries or coding languages if possible. 
-- ⚡ Fun fact: I love to run, bike, RC's, and travel around the world.
+🌱 I’m always looking for ways to break the application before the client does.
+🥅 2025 Goal: Become AWS Certified.
+⚡ Fun fact: I love running, cycling, photography, and traveling the world.
 
 ### Connect with me:
 
