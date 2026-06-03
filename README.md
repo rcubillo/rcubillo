@@ -6,7 +6,7 @@
 ## I'm a Husband, Father and senior QA Engineer
 
 🌱 I’m always looking for ways to break the application before the client does.<br>
-🥅 2025 Goal: Become AWS Certified.<br>
+🥅 2026 Goal: Become AWS Certified.<br>
 ⚡ Fun fact: I love running, cycling, photography, and traveling the world.
 
 ### Connect with me:
