@@ -66,6 +66,13 @@
 
 </details>
 
+---
+
+### 🚁 Flight Stats
+
+<!--FLIGHT-STATS:START-->
+<!--FLIGHT-STATS:END-->
+
 [website]: linkedin.com/in/ronald-cubillo
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: linkedin.com/in/ronald-cubillo
