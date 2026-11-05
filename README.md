@@ -71,6 +71,15 @@
 ### 🚁 Flight Stats
 
 <!--FLIGHT-STATS:START-->
+| Metric | Value |
+| --- | --- |
+| ✈️ Total Flights | 4 |
+| ⏱️ Total Flight Time | 0.4 hrs |
+| 📏 Total Distance | 0.8 km |
+| 🔥 Current Streak | 1 week |
+| 🛬 Last Flight | Feb 14, 2026 |
+
+<sub>Last updated 2026-11-05</sub>
 <!--FLIGHT-STATS:END-->
 
 [website]: linkedin.com/in/ronald-cubillo
